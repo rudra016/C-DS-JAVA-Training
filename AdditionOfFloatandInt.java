@@ -3,6 +3,6 @@ public class Main {
         int a = 4;
         float b = 5.7f;
 
-        System.out.println((float)a+b);
+        System.out.println("Sum is" + (a+b));
     }
 }
