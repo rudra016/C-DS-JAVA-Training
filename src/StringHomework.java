@@ -128,6 +128,6 @@ public class ProgrammingExercises24thJuly {
         for(int i=0;i<arr.length;i++){
             sum+=arr[i];
         }
-        System.out.println("Sum is "+Average/arr.length);
+        System.out.println("Sum is "+ sum/arr.length);
     }
 }
