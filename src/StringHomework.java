@@ -11,7 +11,7 @@ public class ProgrammingExercises24thJuly {
         System.out.println(Reverse("Hello"));
         int arr[]={1,2,3,4,2,22,5,3,2,1,4};
         System.out.println(MakeUnique(arr));
-        FindCount("Pawan Sharma");
+        FindCount("Rudra Sharma");
         FindLargest(arr);
         SortArray(arr);
         FindAvgSum(arr);
